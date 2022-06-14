@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactiveratingcomponent-html-css-javascript-tUnmgIBCCg)
 - Live Site URL: [Netlify](https://imaginative-moxie-6a11ca.netlify.app/)
 
 ## My process
